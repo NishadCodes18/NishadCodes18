@@ -5,12 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=NishadCodes18&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=NishadCodes18" alt="GitHub Trophies" />
-  </a> 
-</p>
-
 - 🔭 I’m currently working to **improve my Python and C++ skills**
 
 - 🌱 I’m currently learning **Core Computer Science concepts and Software Development**
@@ -21,7 +15,7 @@
 
 - 📫 How to reach me **nishadpatil2008@gmail.com**
 
-- ⚡ Fun fact: **When I'm not writing code, you can usually find me playing football, hitting the gym, or editing videos!**
+- ⚡ Fun fact: **When I'm not coding, you can usually find me playing football, hitting the gym, or editing videos!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
