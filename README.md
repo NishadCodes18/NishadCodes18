@@ -82,3 +82,20 @@
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/NishadCodes18/NishadCodes18/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+<br>
+
+---
+
+<div align="center">
+  <h3>☕ Fuel my coding journey!</h3>
+  <p>I’m a student developer passionate about building open-source projects. If you find my work helpful or just want to support my late-night coding sessions, feel free to buy me a chai!</p>
+  
+  <a href="upi://pay?pa=nishad508@icici&pn=Nishad%20Patil&cu=INR">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Chai-UPI-orange?style=for-the-badge&logo=google-pay&logoColor=white" alt="Buy Me A Chai" />
+  </a>
+  <br>
+  <small>Scan or click the badge to pay via any UPI app (GPay, PhonePe, Paytm)</small>
+</div>
+
+<br>
