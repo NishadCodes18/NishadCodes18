@@ -28,19 +28,12 @@
 <br>
 
 ## 🚀 My Projects so far
-*(These will stay here forever until you manually delete them)*
 
 | Project | Description |
 |---------|-------------|
 | [S.U.T.R.A.](https://github.com/NishadCodes18/S.U.T.R.A.-Moving-Traffic-Saving-Lives) | Moving Traffic, Saving Lives. A traffic management and optimization project. |
 | [Simple Gym Website](https://github.com/NishadCodes18/Simple-Gym-Website) | A clean and simple website built for a gym. |
 
-<br>
-
-## ⚡ Recent GitHub Activity
-*(This is the temporary bot section. Older activity will roll off as new activity happens!)*
-
-<br>
 
 ## 🏆 Certifications & Achievements
 
@@ -67,6 +60,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+<br>
+
+## ⚡ Recent GitHub Activity
 
 <br>
 
