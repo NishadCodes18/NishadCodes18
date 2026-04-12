@@ -84,18 +84,17 @@
 </div>
 
 <br>
+<br>
 
 ---
 
 <div align="center">
   <h3>☕ Fuel my coding journey!</h3>
-  <p>I’m a student developer passionate about building open-source projects. If you find my work helpful or just want to support my late-night coding sessions, feel free to buy me a chai!</p>
+  <p>I'm a student developer working on open-source projects. If my work helped you, feel free to support me!</p>
   
-  <a href="upi://pay?pa=nishad508@icici&pn=Nishad%20Patil&cu=INR">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Chai-UPI-orange?style=for-the-badge&logo=google-pay&logoColor=white" alt="Buy Me A Chai" />
-  </a>
-  <br>
-  <small>Scan or click the badge to pay via any UPI app (GPay, PhonePe, Paytm)</small>
+  <p><b>Pay via UPI:</b> <a href="upi://pay?pa=nishad508@icici&pn=Nishad%20Patil&cu=INR"><code>nishad508@icici</code></a></p>
+  
+  <p><i>(Clicking the ID above works on mobile to open your UPI app)</i></p>
 </div>
 
 <br>
