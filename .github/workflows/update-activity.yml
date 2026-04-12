@@ -1,22 +1,19 @@
-name: Recent Activity Workflow
+name: Update README with GitHub Activity
 
 on:
   schedule:
-    - cron: '0 */12 * * *' # Runs every 12 hours
-  workflow_dispatch: # Allows you to run it manually for testing
+    - cron: "0 */1 * * *" # Runs every hour so you see updates fast!
+  workflow_dispatch:
 
 jobs:
-  update-readme:
-    name: Update README with GitHub Activity
+  build:
     runs-on: ubuntu-latest
+    name: Update this repo's README with recent activity
     steps:
       - uses: actions/checkout@v3
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          # Settings to make it more visible
+          COMMIT_MSG: "⚡ Update recent activity"
           MAX_LINES: 10
-          # This ensures it looks for all types of activity, not just stars
-          COMMIT_MESSAGE: "Updated recent activity"
-          EMPTY_COMMIT_MESSAGE: "No recent activity found"
