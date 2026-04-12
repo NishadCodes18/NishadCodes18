@@ -73,7 +73,7 @@
 ## ⏱️ Weekly Coding Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NishadCodes18&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
 </div>
 <br>
 
