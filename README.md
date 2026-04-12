@@ -37,7 +37,7 @@
 <br>
 
 ## ⚡ Recent GitHub Activity
-``
+<!--START_SECTION:activity-->
 
 ## 🏆 Certifications & Achievements
 
