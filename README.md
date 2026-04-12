@@ -63,6 +63,20 @@
 
 <br>
 
+## 🏆 Certifications & Achievements
+
+* 🎓 **Artificial Intelligence & Machine Learning Certification** - *Bhartiya Skill Development University, Jaipur*
+* ⭐ **HackerRank Certified** - *Multiple skill certifications acquired*
+
+<br>
+
+## ⏱️ Weekly Coding Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
+</div>
+<br>
+
 ## 🐍 My Contributions
 
 <div align="center">
