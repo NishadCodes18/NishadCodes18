@@ -36,9 +36,6 @@
 
 <br>
 
-## ⚡ Recent GitHub Activity
-<!--START_SECTION:activity-->
-
 ## 🏆 Certifications & Achievements
 
 * 🎓 **Artificial Intelligence & Machine Learning Certification** - *Bhartiya Skill Development University, Jaipur*
