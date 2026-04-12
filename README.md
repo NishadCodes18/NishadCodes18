@@ -84,18 +84,3 @@
 </div>
 
 <br>
----
-<br>
-
-<div align="center">
-  <h3>☕ Fuel my coding journey!</h3>
-  <p>If you find my work helpful, you can support my late-night coding sessions by buying me a chai!</p>
-
-  <a href="upi://pay?pa=nishad508@icici&pn=Nishad%20Patil&cu=INR">
-    <img src="https://img.shields.io/badge/Donate%20via%20UPI-nishad508%40icici-orange?style=for-the-badge&logo=googlepay&logoColor=white" alt="UPI Donation" />
-  </a>
-  
-  <p><sub>Note: Clicking works on <b>mobile</b> to open UPI apps. On desktop, please copy the ID manually.</sub></p>
-</div>
-
-<br>
