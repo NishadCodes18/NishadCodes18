@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishad Patil</h1>
 <h3 align="center">A passionate Frontend & Python developer from Maharashtra, India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishadcodes18&label=Profile%20views&color=0e75b6&style=flat" alt="nishadcodes18" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NishadCodes18&label=Profile%20views&color=0e75b6&style=flat" alt="NishadCodes18" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishadcodes18" alt="nishadcodes18" /></a> </p>
 
