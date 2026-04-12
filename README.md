@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋, I'm Nishad Patil</h1>
-<h3 align="center">A passionate Frontend & Python developer from Maharashtra, India</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Nishad+Patil;A+passionate+Frontend+%26+Python+developer;Core+Computer+Science+Student" alt="Typing SVG" />
+</div>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=NishadCodes18&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
+
+<br>
 
 - 🔭 I’m currently working to **improve my Python and C++ skills**
 - 🌱 I’m currently learning **Core Computer Science concepts and Software Development**
@@ -28,6 +31,13 @@
 |---------|-------------|
 | [S.U.T.R.A.](https://github.com/NishadCodes18/S.U.T.R.A.-Moving-Traffic-Saving-Lives) | Moving Traffic, Saving Lives. A traffic management and optimization project. |
 | [Simple Gym Website](https://github.com/NishadCodes18/Simple-Gym-Website) | A clean and simple website built for a gym. |
+
+<br>
+
+## 🏆 Certifications & Achievements
+
+* 🎓 **Artificial Intelligence & Machine Learning Certification** - *Bhartiya Skill Development University, Jaipur*
+* ⭐ **HackerRank Certified** - *Multiple skill certifications acquired*
 
 <br>
 
@@ -57,16 +67,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NishadCodes18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishadCodes18&theme=tokyonight" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NishadCodes18&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
-
-<br>
-
-## 🏆 Certifications & Achievements
-
-* 🎓 **Artificial Intelligence & Machine Learning Certification** - *Bhartiya Skill Development University, Jaipur*
-* ⭐ **HackerRank Certified** - *Multiple skill certifications acquired*
 
 <br>
 
