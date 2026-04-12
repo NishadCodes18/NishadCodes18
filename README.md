@@ -43,13 +43,6 @@
 
 <br>
 
-<h3 align="left">GitHub Trophies:</h3>
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=NishadCodes18&theme=tokyonight&no-bg=true&margin-w=15&column=4" alt="GitHub Trophies" />
-</p>
-
-<br>
-
 ## 🛠️ My Toolkit
 
 ### 🧠 Machine Learning & Data
