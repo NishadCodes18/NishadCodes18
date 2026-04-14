@@ -67,8 +67,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NishadCodes18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishadCodes18&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=NishadCodes18&theme=dark)](https://git.io/streak-stats)" alt="GitHub Stats" />
 </div>
 
 <br>
