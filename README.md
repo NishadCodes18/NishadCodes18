@@ -55,6 +55,8 @@
   <img src="https://raw.githubusercontent.com/NishadCodes18/Certifications-Challenges-Solved/main/Problem%20Solving%20Badge%20(Gold-866pts).png" alt="Problem Solving Gold Badge" width="250" />
 </p>
 
+<br><br>
+
 ## 🛠️ My Toolkit
 
 ### 🧠 Machine Learning & Data
