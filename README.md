@@ -43,10 +43,17 @@
 
 <br><br>
 
-* 🎓 **Artificial Intelligence & Machine Learning Certification** - *Bhartiya Skill Development University, Jaipur*
-* ⭐ **HackerRank Certified** - *Multiple skill certifications acquired*
+### 🌟 Top Highlights
+* 🎓 **[Artificial Intelligence & Machine Learning Certification](https://github.com/NishadCodes18/Certifications-Challenges-Solved/blob/main/Artificial%20Intelligence%20%26%20Machine%20Learning%20Certification%20-%20Bhartiya%20Skill%20Development%20University,%20Jaipur_rotated-1.pdf)** - *Bhartiya Skill Development University, Jaipur*
+* 🚀 **[Data Structures in C++ Course](https://github.com/NishadCodes18/Certifications-Challenges-Solved/blob/main/scaler%20certificate.png)** - *Scaler*
 
 <br>
+
+### 🏅 HackerRank Badges
+<p align="left">
+  <img src="https://raw.githubusercontent.com/NishadCodes18/Certifications-Challenges-Solved/main/C++%20Badge%20(Gold-330pts).png" alt="C++ Gold Badge" width="250" />
+  <img src="https://raw.githubusercontent.com/NishadCodes18/Certifications-Challenges-Solved/main/Problem%20Solving%20Badge%20(Gold-866pts).png" alt="Problem Solving Gold Badge" width="250" />
+</p>
 
 ## 🛠️ My Toolkit
 
