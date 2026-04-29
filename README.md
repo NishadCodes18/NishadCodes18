@@ -45,17 +45,19 @@
 
 ### 🌟 Top Highlights
 * 🎓 **[Artificial Intelligence & Machine Learning Certification](https://github.com/NishadCodes18/Certifications-Challenges-Solved/blob/main/Artificial%20Intelligence%20%26%20Machine%20Learning%20Certification%20-%20Bhartiya%20Skill%20Development%20University,%20Jaipur_rotated-1.pdf)** - *Bhartiya Skill Development University, Jaipur*
+* 💻 **[Advanced SQL Certification](https://github.com/NishadCodes18/Certifications-Challenges-Solved/blob/main/sql_advanced%20certificate.pdf)** - *HackerRank*
 * 🚀 **[Data Structures in C++ Course](https://github.com/NishadCodes18/Certifications-Challenges-Solved/blob/main/scaler%20certificate.png)** - *Scaler*
+* 🏆 **[Technophilia 2026: Prompt War](https://github.com/NishadCodes18/Certifications-Challenges-Solved/blob/main/Certificate%20Technophilia%20Participants%20Tech__76.pdf)** - *MIT World Peace University (MIT-WPU)*
 
 <br>
 
 ### 🏅 HackerRank Badges
 <p align="left">
-  <img src="https://raw.githubusercontent.com/NishadCodes18/Certifications-Challenges-Solved/main/C++%20Badge%20(Gold-330pts).png" alt="C++ Gold Badge" width="250" />
-  <img src="https://raw.githubusercontent.com/NishadCodes18/Certifications-Challenges-Solved/main/Problem%20Solving%20Badge%20(Gold-866pts).png" alt="Problem Solving Gold Badge" width="250" />
+  <img src="https://raw.githubusercontent.com/NishadCodes18/Certifications-Challenges-Solved/main/C++%20Badge%20(Gold-330pts).png" alt="C++ Gold Badge" height="150" />
+  <img src="https://raw.githubusercontent.com/NishadCodes18/Certifications-Challenges-Solved/main/Problem%20Solving%20Badge%20(Gold-866pts).png" alt="Problem Solving Gold Badge" height="150" />
 </p>
 
-<br><br>
+<br>
 
 ## 🛠️ My Toolkit
 
