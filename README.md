@@ -45,7 +45,6 @@
 
 ### 🌟 Top Highlights
 * 🎓 **[Artificial Intelligence & Machine Learning Certification](https://github.com/NishadCodes18/Certifications-Challenges-Solved/blob/main/Artificial%20Intelligence%20%26%20Machine%20Learning%20Certification%20-%20Bhartiya%20Skill%20Development%20University,%20Jaipur_rotated-1.pdf)** - *Bhartiya Skill Development University, Jaipur*
-* 💻 **[Advanced SQL Certification](https://github.com/NishadCodes18/Certifications-Challenges-Solved/blob/main/sql_advanced%20certificate.pdf)** - *HackerRank*
 * 🚀 **[Data Structures in C++ Course](https://github.com/NishadCodes18/Certifications-Challenges-Solved/blob/main/scaler%20certificate.png)** - *Scaler*
 * 🏆 **[Technophilia 2026: Prompt War](https://github.com/NishadCodes18/Certifications-Challenges-Solved/blob/main/Certificate%20Technophilia%20Participants%20Tech__76.pdf)** - *MIT World Peace University (MIT-WPU)*
 
