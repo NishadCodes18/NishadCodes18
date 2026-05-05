@@ -50,14 +50,6 @@
 
 <br>
 
-### 🏅 HackerRank Badges
-<p align="left">
-  <img src="https://raw.githubusercontent.com/NishadCodes18/Certifications-Challenges-Solved/main/C++%20Badge%20(Gold-330pts).png" alt="C++ Gold Badge" height="150" />
-  <img src="https://raw.githubusercontent.com/NishadCodes18/Certifications-Challenges-Solved/main/Problem%20Solving%20Badge%20(Gold-866pts).png" alt="Problem Solving Gold Badge" height="150" />
-</p>
-
-<br>
-
 ## 🛠️ My Toolkit
 
 ### 🧠 Machine Learning & Data
