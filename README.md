@@ -38,6 +38,10 @@
 
 📂 **[View my complete collection of certificates and solved challenges here!](https://github.com/NishadCodes18/Certifications-Challenges-Solved)**
 
+<a href="https://github.com/NishadCodes18/Certifications-Challenges-Solved">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NishadCodes18&repo=Certifications-Challenges-Solved&theme=dark" alt="Certifications Repository Card" />
+</a>
+
 <br><br>
 
 ### 🌟 Top Highlights
