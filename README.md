@@ -29,7 +29,6 @@
 | Project | Description |
 |---------|-------------|
 | [S.U.T.R.A.](https://github.com/NishadCodes18/S.U.T.R.A.-Moving-Traffic-Saving-Lives) | Moving Traffic, Saving Lives. A traffic management and optimization project. |
-| [PT-TRACKER-WEBSITE](https://github.com/NishadCodes18/PT-TRACKER-WEBSITE.git) | Personal Trainer CRM and expense tracker. |
 | [Simple Gym Website](https://github.com/NishadCodes18/Simple-Gym-Website) | A clean and simple website built for a gym. |
 
 <br>
@@ -47,6 +46,8 @@
 ### 🌟 Top Highlights
 * 🏆 **[FOSSEE Open Source Hardware Hackathon 2026](https://github.com/NishadCodes18/Certifications-Challenges-Solved/blob/main/FOSSEE%20IIT%20BOMBAY%20HACKATHON%20CERTIFICATE.pdf)** - *IIT Bombay*
 * 🎓 **[Artificial Intelligence & Machine Learning Certification](https://github.com/NishadCodes18/Certifications-Challenges-Solved/blob/main/Artificial%20Intelligence%20%26%20Machine%20Learning%20Certification%20-%20Bhartiya%20Skill%20Development%20University,%20Jaipur_rotated-1.pdf)** - *Bhartiya Skill Development University, Jaipur*
+* 🚀 **[Data Structures in C++ Course](https://github.com/NishadCodes18/Certifications-Challenges-Solved/blob/main/scaler%20certificate.png)** - *Scaler*
+* 📊 **[Python and SQL for Data Science](https://github.com/NishadCodes18/Certifications-Challenges-Solved/blob/main/scaler%20python%20and%20sql%20for%20data%20science.jpeg)** - *Scaler*
 * 🏆 **[Technophilia 2026: Prompt War](https://github.com/NishadCodes18/Certifications-Challenges-Solved/blob/main/Certificate%20Technophilia%20Participants%20Tech__76.pdf)** - *MIT World Peace University (MIT-WPU)*
 
 <br>
