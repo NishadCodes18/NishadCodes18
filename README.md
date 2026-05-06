@@ -1,93 +1,90 @@
-<h1 align="center">Hi 👋, I'm Nishad Patil</h1>
+<h1 align="center">🏆 Certifications, Badges & Achievements</h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=A+passionate+Frontend+%26+Python+developer;Core+Computer+Science+Student" alt="Typing SVG" />
-</div>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=NishadCodes18&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+<p align="center">
+  Welcome to my certifications repository! This space documents my continuous learning journey, showcasing my technical skills, problem-solving abilities, and course completions across various platforms and institutions.
 </p>
 
-<br>
+<hr>
 
-- 🔭 I’m currently working to **improve my Python and C++ skills**
-- 🌱 I’m currently learning **Core Computer Science concepts and Software Development**
-- 👯 I’m looking to collaborate on **Python-based projects and Frontend initiatives**
-- 🤝 I’m looking for help with **advanced data structures and algorithms in C++**
-- 📫 How to reach me **nishadpatil2008@gmail.com**
-- ⚡ Fun fact: **When I'm not writing code, you can usually find me playing football, hitting the gym, or editing videos!**
+## 🎓 Institutional, Event & Course Certifications
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/nishad-patil-147b84203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a><a href="https://instagram.com/nishadd_patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a><a href="https://www.codechef.com/users/nishadpatil008" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" /></a><a href="https://www.hackerrank.com/nishadpatil2008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-</p>
+Here are my formal academic, campus event, and professional training certificates.
 
-<br>
-
-## 🚀 My Projects so far
-
-| Project | Description |
-|---------|-------------|
-| [PT Tracker CRM](https://github.com/NishadCodes18/PT-TRACKER-WEBSITE) | A web application for personal trainers to manage clients, payments, renewals, and business finances. |
-| [S.U.T.R.A.](https://github.com/NishadCodes18/S.U.T.R.A.-Moving-Traffic-Saving-Lives) | Moving Traffic, Saving Lives. A traffic management and optimization project. |
+| Certification / Course | Issuing Organization | Link |
+|------------------------|----------------------|------|
+| **Artificial Intelligence & Machine Learning** | Bhartiya Skill Development University, Jaipur | [📄 View PDF](./Artificial%20Intelligence%20%26%20Machine%20Learning%20Certification%20-%20Bhartiya%20Skill%20Development%20University,%20Jaipur_rotated-1.pdf) |
+| **Data Structures in C++ Course** | Scaler | [🖼️ View Certificate](#scaler-certifications) |
+| **Python and SQL for Data Science** | Scaler | [🖼️ View Certificate](#scaler-certifications) |
+| **SQL for Beginners: MySQL and Database Design** | Scaler | [🖼️ View Certificate](#scaler-certifications) |
+| **Technophilia 2026: Prompt War (Participant)** | MIT World Peace University (MIT-WPU) | [📄 View PDF](./Certificate%20Technophilia%20Participants%20Tech__76.pdf) |
+| **FOSSEE Open Source Hardware Hackathon 2026** | IIT Bombay | [📄 View PDF](./FOSSEE%20IIT%20BOMBAY%20HACKATHON%20CERTIFICATE.pdf) |
 
 <br>
 
-## 🏆 Certifications & Achievements
-
-📂 **[View my complete collection of certificates and solved challenges here!](https://github.com/NishadCodes18/Certifications-Challenges-Solved)**
-
-<a href="https://github.com/NishadCodes18/Certifications-Challenges-Solved">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NishadCodes18&repo=Certifications-Challenges-Solved&theme=dark" alt="Certifications Repository Card" />
-</a>
-
-<br><br>
-
-### 🌟 Top Highlights
-* 🏆 **[FOSSEE Open Source Hardware Hackathon 2026](https://github.com/NishadCodes18/Certifications-Challenges-Solved/blob/main/FOSSEE%20IIT%20BOMBAY%20HACKATHON%20CERTIFICATE.pdf)** - *IIT Bombay*
-* 🎓 **[Artificial Intelligence & Machine Learning Certification](https://github.com/NishadCodes18/Certifications-Challenges-Solved/blob/main/Artificial%20Intelligence%20%26%20Machine%20Learning%20Certification%20-%20Bhartiya%20Skill%20Development%20University,%20Jaipur_rotated-1.pdf)** - *Bhartiya Skill Development University, Jaipur*
-* 🚀 **[Data Structures in C++ Course](https://github.com/NishadCodes18/Certifications-Challenges-Solved/blob/main/scaler%20certificate.png)** - *Scaler*
-* 📊 **[Python and SQL for Data Science](https://github.com/NishadCodes18/Certifications-Challenges-Solved/blob/main/scaler%20python%20and%20sql%20for%20data%20science.jpeg)** - *Scaler*
-
-<br>
-
-## 🛠️ My Toolkit
-
-### 🧠 Machine Learning & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🌐 Web & Software Engineering
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-### 🔧 Tools & Platforms
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-<br>
-
-## 📊 GitHub Stats
-
+<h3 id="scaler-certifications" align="center">🚀 Scaler Certifications</h3>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=NishadCodes18&theme=dark" alt="GitHub Stats" />
+  <table>
+    <tr>
+      <td align="center"><b>Data Structures in C++</b></td>
+      <td align="center"><b>Python and SQL for Data Science</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <kbd>
+          <img src="./scaler%20certificate.png" alt="Scaler Data Structures in C++ Certificate" width="450">
+        </kbd>
+      </td>
+      <td align="center">
+        <kbd>
+          <img src="./scaler%20python%20and%20sql%20for%20data%20science.jpeg" alt="Scaler Python and SQL Certificate" width="450">
+        </kbd>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2"><b>SQL for Beginners: Learn SQL using MySQL and Database Design Course</b></td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <kbd>
+          <img src="./sql%20for%20beginner.jpeg" alt="Scaler SQL for Beginners Certificate" width="450">
+        </kbd>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br>
+<br><hr>
 
-## 🐍 My Contributions
+## ⭐ HackerRank Skill & Role Certifications
+
+I have successfully cleared multiple skill and role assessment tests on HackerRank. 
+
+| Skill / Role | Level | View Document |
+|--------------|-------|---------------|
+| **Frontend Developer (React)** | Role Certification | [📄 View Certificate](./frontend_developer_react%20certificate.pdf) |
+| **Python** | Basic | [📄 View Certificate](./python_basic%20certificate.pdf) |
+| **SQL** | Advanced | [📄 View Certificate](./sql_advanced%20certificate.pdf) |
+| **SQL** | Intermediate | [📄 View Certificate](./sql_intermediate%20certificate.pdf) |
+| **SQL** | Basic | [📄 View Certificate](./sql_basic%20certificate.pdf) |
+| **Problem Solving** | Intermediate | [📄 View Certificate](./problem_solving_intermediate%20certificate.pdf) |
+| **Problem Solving** | Basic | [📄 View Certificate](./problem_solving_basic%20certificate.pdf) |
+| **CSS** | Basic | [📄 View Certificate](./css%20certificate.pdf) |
+
+<br><hr>
+
+## 🏅 HackerRank Practice Badges
+
+Showcasing my consistent practice and rank progression on the platform.
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NishadCodes18/NishadCodes18/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NishadCodes18/NishadCodes18/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/NishadCodes18/NishadCodes18/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="./C++%20Badge%20(Gold-330pts).png" alt="C++ Gold Badge" width="48%" style="margin-right: 1%;" />
+  <img src="./Problem%20Solving%20Badge%20(Gold-866pts).png" alt="Problem Solving Gold Badge" width="48%" />
 </div>
 
-<br>
+<br><hr>
+
+## 📝 Platform Test Reports
+
+| Assessment | Platform | View Report |
+|------------|----------|-------------|
+| **C++ Online Test and Quiz – Report** | CodeChef | [📄 View Report](./C++%20Online%20Test%20and%20Quiz%20–%20Report.pdf) |
