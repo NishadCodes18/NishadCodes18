@@ -36,20 +36,20 @@
 
 ## 🏆 Certifications & Achievements
 
-📂 **[View my complete collection of certificates and solved challenges here!](https://github.com/NishadCodes18/Certifications-Challenges-Solved)**
+📂 **[View my complete collection of certificates and solved challenges here!](https://github.com/NishadCodes18/Certifications-Challenges-And-Achievements)**
 
-<a href="https://github.com/NishadCodes18/Certifications-Challenges-Solved">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NishadCodes18&repo=Certifications-Challenges-Solved&theme=dark" alt="Certifications Repository Card" />
+<a href="https://github.com/NishadCodes18/Certifications-Challenges-And-Achievements">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NishadCodes18&repo=Certifications-Challenges-And-Achievements&theme=dark" alt="Certifications Repository Card" />
 </a>
 
 <br><br>
 
 ### 🌟 Top Highlights
-* 🏆 **[FOSSEE Open Source Hardware Hackathon 2026](https://github.com/NishadCodes18/Certifications-Challenges-Solved/blob/main/FOSSEE%20IIT%20BOMBAY%20HACKATHON%20CERTIFICATE.pdf)** - *IIT Bombay*
-* 🎓 **[Artificial Intelligence & Machine Learning Certification](https://github.com/NishadCodes18/Certifications-Challenges-Solved/blob/main/Artificial%20Intelligence%20%26%20Machine%20Learning%20Certification%20-%20Bhartiya%20Skill%20Development%20University,%20Jaipur_rotated-1.pdf)** - *Bhartiya Skill Development University, Jaipur*
-* 🚀 **[Data Structures in C++ Course](https://github.com/NishadCodes18/Certifications-Challenges-Solved/blob/main/scaler%20certificate.png)** - *Scaler*
-* 📊 **[Python and SQL for Data Science](https://github.com/NishadCodes18/Certifications-Challenges-Solved/blob/main/scaler%20python%20and%20sql%20for%20data%20science.jpeg)** - *Scaler*
-* 🗄️ **[SQL for Beginners: MySQL and Database Design](https://github.com/NishadCodes18/Certifications-Challenges-Solved/blob/main/sql%20for%20beginner.jpeg)** - *Scaler*
+* 🏆 **[FOSSEE Open Source Hardware Hackathon 2026](https://github.com/NishadCodes18/Certifications-Challenges-And-Achievements/blob/main/FOSSEE%20IIT%20BOMBAY%20HACKATHON%20CERTIFICATE.pdf)** - *IIT Bombay*
+* 🎓 **[Artificial Intelligence & Machine Learning Certification](https://github.com/NishadCodes18/Certifications-Challenges-And-Achievements/blob/main/Artificial%20Intelligence%20%26%20Machine%20Learning%20Certification%20-%20Bhartiya%20Skill%20Development%20University,%20Jaipur_rotated-1.pdf)** - *Bhartiya Skill Development University, Jaipur*
+* 🚀 **[Data Structures in C++ Course](https://github.com/NishadCodes18/Certifications-Challenges-And-Achievements/blob/main/scaler%20certificate.png)** - *Scaler*
+* 📊 **[Python and SQL for Data Science](https://github.com/NishadCodes18/Certifications-Challenges-And-Achievements/blob/main/scaler%20python%20and%20sql%20for%20data%20science.jpeg)** - *Scaler*
+* 🗄️ **[SQL for Beginners: MySQL and Database Design](https://github.com/NishadCodes18/Certifications-Challenges-And-Achievements/blob/main/sql%20for%20beginner.jpeg)** - *Scaler*
 
 <br>
 
