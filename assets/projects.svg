@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="122" viewBox="0 0 1200 122">
+<defs><linearGradient id="line" x1="0" x2="1"><stop stop-color="#A50044"/><stop offset=".48" stop-color="#75D5F5"/><stop offset="1" stop-color="#F6C84A"/></linearGradient></defs>
+<rect x="1" y="1" width="1198" height="120" rx="17" fill="#101629" stroke="#34435E" stroke-width="2"/>
+<rect x="1" y="1" width="9" height="120" rx="4" fill="url(#line)"/>
+<text x="34" y="37" font-family="monospace" font-size="14" letter-spacing="3" fill="#75D5F5">02 / PROFILE</text>
+<text x="34" y="86" font-family="Arial,sans-serif" font-weight="800" font-size="34" fill="#F8FBFF">FEATURED PROJECTS</text>
+<text x="1160" y="74" text-anchor="end" font-family="monospace" font-size="14" letter-spacing="1.5" fill="#CFDDF0">BUILT WITH PURPOSE</text>
+<rect x="34" y="101" width="1125" height="3" rx="1.5" fill="url(#line)"/>
+</svg>

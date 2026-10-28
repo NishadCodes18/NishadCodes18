@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310">
+<defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#6B0F36"/><stop offset=".48" stop-color="#17233F"/><stop offset="1" stop-color="#075B83"/></linearGradient><linearGradient id="bar" x1="0" x2="1"><stop stop-color="#D4145A"/><stop offset=".5" stop-color="#75D5F5"/><stop offset="1" stop-color="#F6C84A"/></linearGradient></defs>
+<rect x="2" y="2" width="1196" height="306" rx="24" fill="url(#bg)" stroke="#BDEEFF" stroke-opacity=".65" stroke-width="2"/>
+<text x="42" y="49" font-family="monospace" font-size="15" letter-spacing="3" fill="#BDEEFF">THE DEVELOPER LEAGUE • SEASON: ALWAYS LEARNING</text>
+<text x="42" y="115" font-family="Arial,sans-serif" font-size="36" font-weight="800" fill="#FFFFFF">NISHAD</text>
+<text x="42" y="148" font-family="monospace" font-size="15" fill="#E8F7FF">DEVELOPER XI</text>
+<text x="600" y="125" text-anchor="middle" font-family="Arial,sans-serif" font-size="72" font-weight="900" fill="#FFFFFF">&lt;/&gt;</text>
+<text x="600" y="160" text-anchor="middle" font-family="monospace" font-size="14" fill="#F6D86A">CODE • CREATE • IMPROVE</text>
+<text x="1158" y="115" text-anchor="end" font-family="Arial,sans-serif" font-size="35" font-weight="800" fill="#FFFFFF">THE BUGS</text>
+<text x="1158" y="148" text-anchor="end" font-family="monospace" font-size="15" fill="#E8F7FF">DEBUGGING FC</text>
+<rect x="42" y="190" width="1116" height="4" rx="2" fill="url(#bar)"/>
+<g font-family="monospace" font-size="15" fill="#FFFFFF">
+<text x="42" y="231">01  PLAN THE PLAY</text><text x="330" y="231">02  WRITE THE CODE</text><text x="635" y="231">03  TEST &amp; DEBUG</text><text x="930" y="231">04  SHIP THE BUILD</text>
+</g>
+<g fill="#F6D86A"><circle cx="50" cy="264" r="6"/><circle cx="338" cy="264" r="6"/><circle cx="643" cy="264" r="6"/><circle cx="938" cy="264" r="6"/></g>
+<text x="42" y="291" font-family="monospace" font-size="12" fill="#DCEEFF">NO FABRICATED MATCH STATS • JUST CONSISTENT PROGRESS</text>
+</svg>
