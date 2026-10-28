@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430">
+<defs>
+ <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#351021"/><stop offset=".55" stop-color="#4C1230"/><stop offset="1" stop-color="#17162A"/></linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#D4145A"/><stop offset=".55" stop-color="#75D5F5"/><stop offset="1" stop-color="#F3C64E"/></linearGradient>
+ <pattern id="scan" width="5" height="5" patternUnits="userSpaceOnUse"><path d="M0 4.5H5" stroke="#FFFFFF" stroke-opacity=".025"/></pattern>
+</defs>
+<rect x="2" y="2" width="1196" height="426" rx="26" fill="url(#panel)" stroke="#8D315D" stroke-opacity=".7"/>
+<rect x="2" y="2" width="1196" height="426" rx="26" fill="url(#scan)"/>
+<rect x="38" y="38" width="760" height="350" rx="18" fill="#100A14" stroke="#67314B"/>
+<path d="M38 76H798" stroke="#6B314E"/>
+<circle cx="62" cy="57" r="6" fill="#D4145A"/><circle cx="84" cy="57" r="6" fill="#75D5F5"/><circle cx="106" cy="57" r="6" fill="#F3C64E"/>
+<text x="418" y="63" text-anchor="middle" fill="#D8C7D1" font-family="monospace" font-size="13" letter-spacing="2">nishad@portfolio: ~</text>
+<g font-family="monospace" font-size="18">
+ <text x="72" y="121" fill="#75D5F5">$ whoami</text>
+ <text x="72" y="153" fill="#E9DDE5">→ Nishad Patil · Computer Science Student</text>
+ <text x="72" y="198" fill="#75D5F5">$ cat focus.txt</text>
+ <text x="72" y="230" fill="#E9DDE5">→ Python · C++ · software development</text>
+ <text x="72" y="275" fill="#75D5F5">$ cat interests.txt</text>
+ <text x="72" y="307" fill="#E9DDE5">→ AI/ML · web projects · problem solving</text>
+ <text x="72" y="352" fill="#75D5F5">$ echo "off the keyboard"</text>
+ <text x="72" y="379" fill="#E9DDE5">→ Football · gym · video editing  <tspan fill="#F0B6D0">▌</tspan></text>
+</g>
+<g>
+ <rect x="835" y="65" width="325" height="88" rx="15" fill="#1A0C16" stroke="#9B3B6A"/>
+ <rect x="835" y="65" width="5" height="88" rx="2" fill="#D4145A"/>
+ <text x="860" y="94" fill="#F0B6D0" font-family="monospace" font-size="12" letter-spacing="2">CURRENT FOCUS</text>
+ <text x="860" y="128" fill="#F8F7FB" font-family="Georgia,serif" font-size="29">Software &amp; CS</text>
+ <text x="860" y="146" fill="#C9B8C4" font-family="Arial,sans-serif" font-size="12">Building strong foundations</text>
+ <rect x="835" y="169" width="325" height="88" rx="15" fill="#111A2A" stroke="#34718A"/>
+ <rect x="835" y="169" width="5" height="88" rx="2" fill="#75D5F5"/>
+ <text x="860" y="198" fill="#75D5F5" font-family="monospace" font-size="12" letter-spacing="2">LANGUAGES &amp; DATA</text>
+ <text x="860" y="232" fill="#F8F7FB" font-family="Georgia,serif" font-size="29">Python · C++</text>
+ <text x="860" y="250" fill="#C9DCE5" font-family="Arial,sans-serif" font-size="12">Exploring databases &amp; AI/ML</text>
+ <rect x="835" y="273" width="325" height="88" rx="15" fill="#19172A" stroke="#6D5A9D"/>
+ <rect x="835" y="273" width="5" height="88" rx="2" fill="#F3C64E"/>
+ <text x="860" y="302" fill="#F3C64E" font-family="monospace" font-size="12" letter-spacing="2">OFF-SCREEN MODE</text>
+ <text x="860" y="336" fill="#F8F7FB" font-family="Georgia,serif" font-size="29">Football</text>
+ <text x="860" y="354" fill="#D5CADA" font-family="Arial,sans-serif" font-size="12">Teamwork · timing · discipline</text>
+</g>
+<rect x="38" y="405" width="1122" height="4" rx="2" fill="url(#accent)"/>
+</svg>

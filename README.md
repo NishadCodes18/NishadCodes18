@@ -1,67 +1,90 @@
-<!-- Nishad Patil | GitHub Profile README | Barça × Argentina × Coding -->
+<!--
+Nishad Patil | GitHub Profile README
+Visual identity: FC Barcelona garnet × Argentina sky blue × coding terminal.
+The hero banner is clickable and opens the portfolio website.
+-->
 
 <p align="center">
   <a href="https://nishadcodes18-portfolio.vercel.app/">
-    <img src="assets/hero.png" width="100%" alt="Nishad Patil — Computer Science student, developer and footballer. Click to visit portfolio." />
+    <img src="assets/hero.gif" width="100%" alt="Nishad Patil — Playmaking in code. Dominating the pitch. Click to visit portfolio." />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://nishadcodes18-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Explore%20My%20Work-75D5F5?style=for-the-badge&labelColor=101629&logo=vercel&logoColor=101629" alt="Portfolio" /></a>
+  <a href="https://nishadcodes18-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Explore%20My%20Work-75D5F5?style=for-the-badge&labelColor=101629&logo=vercel&logoColor=101629" alt="Portfolio website" /></a>
   <a href="https://linkedin.com/in/nishad-patil-147b84203"><img src="https://img.shields.io/badge/LINKEDIN-Connect-A50044?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:nishadpatil2008@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Get%20In%20Touch-F6C84A?style=for-the-badge&labelColor=101629&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:nishadpatil2008@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Get%20In%20Touch-F3C64E?style=for-the-badge&labelColor=101629&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NishadCodes18&label=PROFILE%20VIEWS&color=75D5F5&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=NishadCodes18&label=PROFILE%20VIEWS&color=75D5F5&style=for-the-badge" alt="Profile views" />
 </p>
 
-<img src="assets/about.svg" width="100%" alt="About Nishad Patil" />
+<img src="assets/title-about.gif" width="100%" alt="01 About — Hello, I'm Nishad." />
 
-- 🔭 I’m currently working to **improve my Python and C++ skills**
-- 🌱 I’m currently learning **Core Computer Science concepts and Software Development**
-- 👯 I’m looking to collaborate on **Python-based projects and Frontend initiatives**
-- 🤝 I’m looking for help with **advanced data structures and algorithms in C++**
-- 📫 How to reach me **[nishadpatil2008@gmail.com](mailto:nishadpatil2008@gmail.com)**
+<p align="center">
+  <img src="assets/about-intro.gif" width="100%" alt="Terminal-style introduction: Nishad Patil, Computer Science student, focusing on Python, C++, software development, AI/ML and web projects. Outside coding: football, gym and video editing." />
+</p>
+
+I'm **Nishad Patil**, an Integrated B.Tech Computer Science and Engineering student at **MIT World Peace University, Pune**. I enjoy building practical software, exploring AI/ML, and strengthening my foundations in computer science.
+
+- 🔭 I’m currently working to **improve my Python and C++ skills**.
+- 🌱 I’m currently learning **Core Computer Science concepts and Software Development**.
+- 👯 I’m looking to collaborate on **Python-based projects and Frontend initiatives**.
+- 🤝 I’m looking for help with **advanced data structures and algorithms in C++**.
+- 📫 How to reach me **[nishadpatil2008@gmail.com](mailto:nishadpatil2008@gmail.com)**.
 - ⚡ Fun fact: **When I'm not writing code, you can usually find me playing football, hitting the gym, or editing videos!**
 
-### Connect with me
+<img src="assets/title-recognition.gif" width="100%" alt="02 Recognition — Proof, on the record." />
 
-<p align="left">
-  <a href="https://linkedin.com/in/nishad-patil-147b84203"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://instagram.com/nishadd_patil"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/nishadpatil008"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" alt="CodeChef" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/nishadpatil2008"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
+<p align="center">
+  <img src="assets/recognition.gif" width="100%" alt="FOSSEE Open Source Hardware Hackathon 2026 at IIT Bombay; Artificial Intelligence and Machine Learning Certification from Bhartiya Skill Development University, Jaipur; Scaler courses in Data Structures in C++, Python and SQL for Data Science, and SQL for Beginners." />
 </p>
-
-<img src="assets/projects.svg" width="100%" alt="Selected projects" />
-
-| Project | Description |
-|---|---|
-| [CareerCompiler AI](https://github.com/NishadCodes18/CareerCompiler-AI) | An AI-powered career compilation and resume building tool. |
-| [DocuSphere AI](https://github.com/NishadCodes18/DocuSphere-Ai) | An AI-driven document management and processing platform. |
-| [PT Tracker CRM](https://github.com/NishadCodes18/PT-TRACKER-WEBSITE) | A web application for personal trainers to manage clients, payments, renewals, and business finances. |
-| [S.U.T.R.A.](https://github.com/NishadCodes18/S.U.T.R.A.-Moving-Traffic-Saving-Lives) | Moving Traffic, Saving Lives. A traffic management and optimization project. |
-| [Gym Website](https://github.com/NishadCodes18/Gym-Website) | A clean and simple website built for a gym. |
-
-<img src="assets/achievements.svg" width="100%" alt="Certifications and achievements" />
 
 📂 **[View my complete collection of certificates and solved challenges here!](https://github.com/NishadCodes18/Certifications-Challenges-And-Achievements)**
 
+<img src="assets/title-work.gif" width="100%" alt="03 Selected work — Projects built with purpose." />
+
+<a href="https://github.com/NishadCodes18/CareerCompiler-AI">
+  <img src="assets/project-careercompiler.gif" width="100%" alt="CareerCompiler AI — An AI-powered career compilation and resume building tool." />
+</a>
 <p align="center">
-  <a href="https://github.com/NishadCodes18/Certifications-Challenges-And-Achievements">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NishadCodes18&repo=Certifications-Challenges-And-Achievements&theme=transparent&bg_color=101629&title_color=75D5F5&text_color=F8FBFF&icon_color=F6C84A&border_color=75D5F5" alt="Certifications Repository Card" />
-  </a>
+  <a href="https://github.com/NishadCodes18/CareerCompiler-AI"><img src="https://img.shields.io/badge/REPOSITORY-CareerCompiler%20AI-A50044?style=for-the-badge&logo=github&logoColor=white" alt="CareerCompiler AI repository" /></a>
 </p>
 
-### 🌟 Top Highlights
-* 🏆 **[FOSSEE Open Source Hardware Hackathon 2026](https://github.com/NishadCodes18/Certifications-Challenges-And-Achievements/blob/main/FOSSEE%20IIT%20BOMBAY%20HACKATHON%20CERTIFICATE.pdf)** - *IIT Bombay*
-* 🎓 **[Artificial Intelligence & Machine Learning Certification](https://github.com/NishadCodes18/Certifications-Challenges-And-Achievements/blob/main/Artificial%20Intelligence%20%26%20Machine%20Learning%20Certification%20-%20Bhartiya%20Skill%20Development%20University,%20Jaipur_rotated-1.pdf)** - *Bhartiya Skill Development University, Jaipur*
-* 🚀 **[Data Structures in C++ Course](https://github.com/NishadCodes18/Certifications-Challenges-And-Achievements/blob/main/scaler%20certificate.png)** - *Scaler*
-* 📊 **[Python and SQL for Data Science](https://github.com/NishadCodes18/Certifications-Challenges-And-Achievements/blob/main/scaler%20python%20and%20sql%20for%20data%20science.jpeg)** - *Scaler*
-* 🗄️ **[SQL for Beginners: MySQL and Database Design](https://github.com/NishadCodes18/Certifications-Challenges-And-Achievements/blob/main/sql%20for%20beginner.jpeg)** - *Scaler*
+<a href="https://github.com/NishadCodes18/DocuSphere-Ai">
+  <img src="assets/project-docusphere.gif" width="100%" alt="DocuSphere AI — An AI-driven document management and processing platform." />
+</a>
+<p align="center">
+  <a href="https://github.com/NishadCodes18/DocuSphere-Ai"><img src="https://img.shields.io/badge/REPOSITORY-DocuSphere%20AI-75D5F5?style=for-the-badge&labelColor=101629&logo=github&logoColor=white" alt="DocuSphere AI repository" /></a>
+</p>
 
-<img src="assets/toolkit.svg" width="100%" alt="Technology toolkit" />
+<a href="https://github.com/NishadCodes18/PT-TRACKER-WEBSITE">
+  <img src="assets/project-pt-tracker.gif" width="100%" alt="PT Tracker CRM — A web application for personal trainers to manage clients, payments, renewals and business finances." />
+</a>
+<p align="center">
+  <a href="https://github.com/NishadCodes18/PT-TRACKER-WEBSITE"><img src="https://img.shields.io/badge/REPOSITORY-PT%20Tracker%20CRM-A50044?style=for-the-badge&logo=github&logoColor=white" alt="PT Tracker CRM repository" /></a>
+</p>
+
+<a href="https://github.com/NishadCodes18/S.U.T.R.A.-Moving-Traffic-Saving-Lives">
+  <img src="assets/project-sutra.gif" width="100%" alt="S.U.T.R.A. — Moving Traffic, Saving Lives. A traffic management and optimization project." />
+</a>
+<p align="center">
+  <a href="https://github.com/NishadCodes18/S.U.T.R.A.-Moving-Traffic-Saving-Lives"><img src="https://img.shields.io/badge/REPOSITORY-S.U.T.R.A.-75D5F5?style=for-the-badge&labelColor=101629&logo=github&logoColor=white" alt="S.U.T.R.A. repository" /></a>
+</p>
+
+<a href="https://github.com/NishadCodes18/Gym-Website">
+  <img src="assets/project-gym.gif" width="100%" alt="Gym Website — A clean and simple website built for a gym." />
+</a>
+<p align="center">
+  <a href="https://github.com/NishadCodes18/Gym-Website"><img src="https://img.shields.io/badge/REPOSITORY-Gym%20Website-A50044?style=for-the-badge&logo=github&logoColor=white" alt="Gym Website repository" /></a>
+</p>
+
+<img src="assets/title-toolkit.gif" width="100%" alt="04 Toolkit — The tools I reach for." />
+
+<p align="center">
+  <img src="assets/tech-constellation.gif" width="100%" alt="Toolkit grouped into machine learning and data: Python, MySQL; web and software engineering: C, C++, CSS, JavaScript, React, Node.js; tools and platforms: Visual Studio Code, Google Colab, GitHub." />
+</p>
 
 ### 🧠 Machine Learning & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -80,27 +103,46 @@
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-<img src="assets/stats.svg" width="100%" alt="GitHub activity and coding scoreboard" />
+<img src="assets/title-commits.gif" width="100%" alt="05 Commit log — A year of building." />
 
 <p align="center">
-  <img src="assets/football-scoreboard.svg" width="100%" alt="Football-inspired coding scoreboard: plan, write, test and ship. This is a design motif, not a live match score." />
+  <img src="assets/year-of-building.gif" width="100%" alt="Animated GitHub contribution calendar. A pixel-style footballer inspired by Nishad's portrait runs beneath the graph and kicks a football toward active contribution squares. The graph displays actual GitHub contribution data after the scheduled workflow runs." />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NishadCodes18&show_icons=true&hide_rank=true&hide_border=true&bg_color=101629&title_color=75D5F5&text_color=F8FBFF&icon_color=F6C84A&custom_title=GitHub%20Stats" alt="GitHub statistics" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NishadCodes18&show_icons=true&hide_rank=true&hide_border=true&bg_color=0D111B&title_color=75D5F5&text_color=F8F7FB&icon_color=F3C64E&custom_title=GitHub%20at%20a%20glance" width="49%" alt="GitHub statistics" />
+  <img src="https://streak-stats.demolab.com?user=NishadCodes18&theme=dark&hide_border=true&background=0D111B&ring=75D5F5&fire=D4145A&currStreakLabel=75D5F5" width="49%" alt="GitHub contribution streak" />
+</p>
 
-<br>
-
-<img src="assets/connect.svg" width="100%" alt="Connect with Nishad" />
+<img src="assets/title-certifications.gif" width="100%" alt="06 Certifications — Learning, verified." />
 
 <p align="center">
-  <a href="https://nishadcodes18-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-75D5F5?style=for-the-badge&labelColor=101629&logo=vercel&logoColor=101629" alt="Portfolio" /></a>
+  <a href="https://github.com/NishadCodes18/Certifications-Challenges-And-Achievements">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NishadCodes18&repo=Certifications-Challenges-And-Achievements&theme=transparent&bg_color=0D111B&title_color=75D5F5&text_color=F8F7FB&icon_color=F3C64E&border_color=A50044" alt="Certifications and achievements repository card" />
+  </a>
+</p>
+
+### 🌟 Top Highlights
+
+- 🏆 **[FOSSEE Open Source Hardware Hackathon 2026](https://github.com/NishadCodes18/Certifications-Challenges-And-Achievements/blob/main/FOSSEE%20IIT%20BOMBAY%20HACKATHON%20CERTIFICATE.pdf)** — *IIT Bombay*
+- 🎓 **[Artificial Intelligence & Machine Learning Certification](https://github.com/NishadCodes18/Certifications-Challenges-And-Achievements/blob/main/Artificial%20Intelligence%20%26%20Machine%20Learning%20Certification%20-%20Bhartiya%20Skill%20Development%20University,%20Jaipur_rotated-1.pdf)** — *Bhartiya Skill Development University, Jaipur*
+- 🚀 **[Data Structures in C++ Course](https://github.com/NishadCodes18/Certifications-Challenges-And-Achievements/blob/main/scaler%20certificate.png)** — *Scaler*
+- 📊 **[Python and SQL for Data Science](https://github.com/NishadCodes18/Certifications-Challenges-And-Achievements/blob/main/scaler%20python%20and%20sql%20for%20data%20science.jpeg)** — *Scaler*
+- 🗄️ **[SQL for Beginners: MySQL and Database Design](https://github.com/NishadCodes18/Certifications-Challenges-And-Achievements/blob/main/sql%20for%20beginner.jpeg)** — *Scaler*
+
+<img src="assets/title-connect.gif" width="100%" alt="07 Connect — Let's build something." />
+
+<p align="center">
+  <a href="https://nishadcodes18-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-nishadcodes18.vercel.app-75D5F5?style=for-the-badge&labelColor=101629&logo=vercel&logoColor=101629" alt="Portfolio website" /></a>
   <a href="https://linkedin.com/in/nishad-patil-147b84203"><img src="https://img.shields.io/badge/LINKEDIN-Nishad%20Patil-A50044?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/nishadd_patil"><img src="https://img.shields.io/badge/INSTAGRAM-nishadd__patil-A50044?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://instagram.com/nishadd_patil"><img src="https://img.shields.io/badge/INSTAGRAM-nishadd__patil-18243C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.codechef.com/users/nishadpatil008"><img src="https://img.shields.io/badge/CODECHEF-nishadpatil008-18243C?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
   <a href="https://www.hackerrank.com/nishadpatil2008"><img src="https://img.shields.io/badge/HACKERRANK-nishadpatil2008-18243C?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-  <a href="mailto:nishadpatil2008@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact%20Me-F6C84A?style=for-the-badge&labelColor=101629&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:nishadpatil2008@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact%20Me-F3C64E?style=for-the-badge&labelColor=101629&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<p align="center"><strong>⚽ Think like a player. Build like an engineer. Improve every day.</strong></p>
+<p align="center">
+  <a href="https://github.com/NishadCodes18">
+    <img src="assets/footer-signature.gif" width="100%" alt="Build with intent. Play with purpose. Nishad Patil." />
+  </a>
+</p>

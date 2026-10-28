@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#230D1B"/><stop offset=".5" stop-color="#3B102B"/><stop offset="1" stop-color="#10253B"/></linearGradient><linearGradient id="edge" x1="0" x2="1"><stop stop-color="#D4145A"/><stop offset=".5" stop-color="#75D5F5"/><stop offset="1" stop-color="#F3C64E"/></linearGradient></defs>
+<rect x="2" y="2" width="1196" height="426" rx="24" fill="url(#bg)" stroke="#81325C"/>
+<g>
+ <rect x="30" y="29" width="352" height="170" rx="18" fill="#160C18" stroke="#844064"/>
+ <rect x="424" y="29" width="352" height="170" rx="18" fill="#101B2C" stroke="#38728F"/>
+ <rect x="818" y="29" width="352" height="170" rx="18" fill="#191629" stroke="#77623E"/>
+ <rect x="30" y="226" width="352" height="170" rx="18" fill="#101B2C" stroke="#38728F"/>
+ <rect x="424" y="226" width="352" height="170" rx="18" fill="#160C18" stroke="#844064"/>
+ <rect x="818" y="226" width="352" height="170" rx="18" fill="#191629" stroke="#77623E"/>
+</g>
+<g font-family="monospace" font-size="13" letter-spacing="2">
+ <text x="57" y="63" fill="#F0B6D0">01  LANGUAGES &amp; DATA</text>
+ <text x="451" y="63" fill="#75D5F5">02  FRONTEND</text>
+ <text x="845" y="63" fill="#F3C64E">03  UI &amp; STYLING</text>
+ <text x="57" y="260" fill="#75D5F5">04  PROGRAMMING</text>
+ <text x="451" y="260" fill="#F0B6D0">05  JAVASCRIPT ECOSYSTEM</text>
+ <text x="845" y="260" fill="#F3C64E">06  TOOLS &amp; PLATFORMS</text>
+</g>
+<g font-family="Georgia,serif" fill="#F8F7FB">
+ <text x="57" y="116" font-size="36">Python</text><text x="57" y="158" font-size="29" fill="#D7C6D2">MySQL</text>
+ <text x="451" y="116" font-size="36">React</text><text x="451" y="158" font-size="29" fill="#C9DEEA">Web interfaces</text>
+ <text x="845" y="116" font-size="36">CSS</text><text x="845" y="158" font-size="29" fill="#D7C6D2">Responsive design</text>
+ <text x="57" y="313" font-size="36">C · C++</text><text x="57" y="355" font-size="28" fill="#C9DEEA">Core programming</text>
+ <text x="451" y="313" font-size="36">JavaScript</text><text x="451" y="355" font-size="28" fill="#D7C6D2">Node.js</text>
+ <text x="845" y="313" font-size="31">VS Code · GitHub</text><text x="845" y="355" font-size="26" fill="#D7C6D2">Google Colab</text>
+</g>
+<path d="M30 211H1170" stroke="url(#edge)" stroke-width="2"/>
+</svg>

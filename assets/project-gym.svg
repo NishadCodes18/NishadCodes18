@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1B0B17"/><stop offset=".5" stop-color="#351027"/><stop offset="1" stop-color="#111F35"/></linearGradient><pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M22 0H0V22" fill="none" stroke="#75D5F5" stroke-opacity=".11"/></pattern></defs>
+<rect x="2" y="2" width="1196" height="246" rx="23" fill="url(#bg)" stroke="#75D5F5" stroke-opacity=".62" stroke-width="2"/>
+<rect x="2" y="2" width="1196" height="246" rx="23" fill="url(#grid)"/>
+<text x="42" y="47" font-family="monospace" font-size="14" letter-spacing="3" fill="#75D5F5">05  /  SELECTED WORK</text>
+<text x="42" y="112" font-family="Georgia,serif" font-size="46" fill="#F8F7FB">Gym Website</text>
+<text x="44" y="151" font-family="Arial,sans-serif" font-size="19" fill="#D4D6E2">A clean, modern website built for a gym.</text>
+<text x="44" y="204" font-family="monospace" font-size="13" letter-spacing="2" fill="#75D5F5">WEB DEVELOPMENT  ·  FRONTEND</text>
+<path d="M830 35H1155M830 75H1085M830 115H1120M830 155H1045M830 195H1138" stroke="#75D5F5" stroke-opacity=".22" stroke-width="2"/>
+<circle cx="1015" cy="121" r="71" fill="#FFFFFF" fill-opacity=".025" stroke="#75D5F5" stroke-opacity=".45" stroke-width="2"/>
+<text x="1015" y="138" text-anchor="middle" font-family="monospace" font-size="50" font-weight="bold" fill="#75D5F5">✦</text>
+<path d="M1094 192L1150 136L1165 151L1109 207Z" fill="#75D5F5" fill-opacity=".18"/>
+</svg>

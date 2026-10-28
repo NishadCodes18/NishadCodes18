@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#260D1D"/><stop offset=".53" stop-color="#48102D"/><stop offset="1" stop-color="#14253B"/></linearGradient><linearGradient id="line" x1="0" x2="1"><stop stop-color="#D4145A"/><stop offset=".55" stop-color="#75D5F5"/><stop offset="1" stop-color="#F3C64E"/></linearGradient></defs>
+<rect x="2" y="2" width="1196" height="356" rx="23" fill="url(#bg)" stroke="#8A315B"/>
+<rect x="31" y="30" width="552" height="204" rx="18" fill="#160B16" stroke="#A34A76"/>
+<text x="60" y="68" font-family="monospace" font-size="13" letter-spacing="3" fill="#F0B6D0">01  /  HACKATHON</text>
+<text x="60" y="143" font-family="Georgia,serif" font-size="56" fill="#F1B7D1">FOSSEE</text>
+<text x="60" y="183" font-family="Georgia,serif" font-size="30" fill="#F8F7FB">Open Source Hardware</text>
+<text x="60" y="211" font-family="Arial,sans-serif" font-size="16" fill="#D3C2CD">Hackathon 2026 · IIT Bombay</text>
+<rect x="603" y="30" width="566" height="204" rx="18" fill="#111B2B" stroke="#4B829A"/>
+<text x="632" y="68" font-family="monospace" font-size="13" letter-spacing="3" fill="#75D5F5">02  /  CERTIFICATION</text>
+<text x="632" y="135" font-family="Georgia,serif" font-size="38" fill="#F8F7FB">AI &amp; Machine Learning</text>
+<text x="632" y="176" font-family="Georgia,serif" font-size="28" fill="#75D5F5">Certification</text>
+<text x="632" y="211" font-family="Arial,sans-serif" font-size="15" fill="#C6D7E2">Bhartiya Skill Development University · Jaipur</text>
+<path d="M32 262H1168" stroke="url(#line)" stroke-width="2"/>
+<g font-family="monospace" font-size="12" letter-spacing="2" fill="#E8DDE5">
+ <text x="60" y="296">SCALER</text><text x="60" y="330" font-family="Georgia,serif" font-size="21" letter-spacing="0" fill="#F8F7FB">Data Structures in C++</text>
+ <text x="435" y="296">SCALER</text><text x="435" y="330" font-family="Georgia,serif" font-size="21" letter-spacing="0" fill="#F8F7FB">Python &amp; SQL for Data Science</text>
+ <text x="850" y="296">SCALER</text><text x="850" y="330" font-family="Georgia,serif" font-size="21" letter-spacing="0" fill="#F8F7FB">SQL &amp; Database Design</text>
+</g>
+</svg>

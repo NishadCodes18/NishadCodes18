@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="152" viewBox="0 0 1200 152">
+<defs>
+ <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+  <stop stop-color="#D4145A"/><stop offset=".48" stop-color="#75D5F5"/><stop offset="1" stop-color="#F3C64E"/>
+ </linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="4"/></filter>
+</defs>
+<text x="42" y="30" font-family="monospace" font-size="14" letter-spacing="4" fill="#75D5F5">06  CERTIFICATIONS</text>
+<text x="42" y="105" font-family="Georgia,serif" font-size="49" fill="#F8F7FB">Learning, 
+ <tspan fill="#F0B6D0" font-style="italic">verified.</tspan>
+</text>
+<text x="1155" y="31" text-anchor="end" font-family="monospace" font-size="13" letter-spacing="3" fill="#C2C9D7">COURSES · CREDENTIALS</text>
+<line x1="42" y1="132" x2="1158" y2="132" stroke="url(#rule)" stroke-width="2"/>
+<circle cx="875" cy="132" r="5" fill="#75D5F5" opacity=".95"/>
+<circle cx="875" cy="132" r="12" fill="#75D5F5" opacity=".15" filter="url(#glow)"/>
+</svg>
