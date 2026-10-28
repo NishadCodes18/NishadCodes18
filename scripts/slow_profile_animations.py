@@ -45,7 +45,11 @@ def slow_existing_gifs():
     for path in sorted(ASSETS.glob("*.gif")):
         if path.name.startswith("title-") or path.name == "year-of-building.gif":
             continue
-        source = Image.open(path)
+        try:
+            source = Image.open(path)
+        except (OSError, ValueError) as exc:
+            print(f"Skipping unreadable GIF {path.name}: {exc}")
+            continue
         frames = [frame.copy() for frame in ImageSequence.Iterator(source)]
         if len(frames) < 2:
             continue
