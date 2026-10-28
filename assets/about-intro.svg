@@ -18,7 +18,7 @@
  <text x="72" y="275" fill="#75D5F5">$ cat interests.txt</text>
  <text x="72" y="307" fill="#E9DDE5">→ AI/ML · web projects · problem solving</text>
  <text x="72" y="352" fill="#75D5F5">$ echo "off the keyboard"</text>
- <text x="72" y="379" fill="#E9DDE5">→ Football · gym · video editing  <tspan fill="#F0B6D0">▌</tspan></text>
+ <text x="72" y="379" fill="#E9DDE5">→ Football · gym training · video editing  </text>
 </g>
 <g>
  <rect x="835" y="65" width="325" height="88" rx="15" fill="#1A0C16" stroke="#9B3B6A"/>

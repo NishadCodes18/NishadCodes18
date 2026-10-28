@@ -125,9 +125,6 @@ def rounded(draw, box, radius, fill, outline=None, width=1):
     draw.rounded_rectangle(box, radius=radius, fill=fill, outline=outline, width=width)
 
 def draw_soccer_ball(draw, cx, cy, radius=8, glow=False):
-    if glow:
-        draw.ellipse((cx-radius-9, cy-radius-9, cx+radius+9, cy+radius+9), fill=(117,213,245,45))
-        draw.ellipse((cx-radius-4, cy-radius-4, cx+radius+4, cy+radius+4), outline=(246,200,78,160), width=2)
     draw.ellipse((cx-radius, cy-radius, cx+radius, cy+radius), fill="#F9FCFF", outline="#18223A", width=2)
     # recognizable pentagon panels
     points = [
@@ -164,8 +161,9 @@ def draw_player(frame, x, y, phase):
     box((12, 27, 17, 39), "#8A0B3D")
     box((37, 27, 42, 38), "#8A0B3D")
     box((19, 28, 35, 31), "#D4145A")
-    # jersey highlight and tiny crest
+    # jersey detail: garnet home kit with a subtle sky-blue training stripe
     box((25, 32, 29, 36), "#F3C64E")
+    box((18, 43, 36, 45), "#75D5F5")
     box((21, 39, 34, 41), "#7D0F3D")
     # arms
     box((9, 27, 14, 42), "#C88A65")
@@ -178,12 +176,12 @@ def draw_player(frame, x, y, phase):
     box((18, 54, 23, 64), "#C88A65")
     box((21, 62, 30, 67), "#75D5F5")
     # kicking leg changes position through the cycle
-    if phase in (2, 3, 4):
+    if phase in (3, 4, 5, 6):
         # extended swing leg
         box((32, 53, 37, 58), "#C88A65")
         box((36, 56, 47, 61), "#C88A65")
         box((44, 58, 51, 63), "#75D5F5")
-    elif phase in (5, 6):
+    elif phase in (7,):
         box((32, 54, 38, 63), "#C88A65")
         box((35, 62, 43, 67), "#75D5F5")
     else:
@@ -271,18 +269,17 @@ def create_frame(grid, date_to_cell, metrics, frame_index, preview=False):
     else:
         targets = [(3+i*6, (i*3+1)%7, 0) for i in range(8)]
     # Pick one target per 6-frame kick sequence.
-    kick_number = min(len(targets)-1, frame_index // 6)
-    phase = frame_index % 6
+    kick_number = min(len(targets)-1, frame_index // 8)
+    phase = frame_index % 8
     target_col, target_row, target_count = targets[kick_number]
     target_x = GRID_X + target_col*STEP + CELL//2
     target_y = GRID_Y + target_row*STEP + CELL//2
     # Previously hit squares keep a faint accent ring, but their heat colour remains the real level.
-    hit_count = min(len(targets), frame_index // 6)
+    hit_count = min(len(targets), frame_index // 8)
     for j in range(hit_count):
         c, r, _ = targets[j]
         cx = GRID_X + c*STEP + CELL//2
         cy = GRID_Y + r*STEP + CELL//2
-        d.rounded_rectangle((cx-3, cy-3, cx+CELL//2+6, cy+CELL//2+6), radius=5, outline=(246,200,78,130), width=1)
     # Moving player traverses below the graph while the ball travels to a selected activity square.
     player_x = 86 + kick_number*132 + phase*5
     player_y = 414
@@ -291,20 +288,19 @@ def create_frame(grid, date_to_cell, metrics, frame_index, preview=False):
     # ball flight arc: starts at kicking foot and climbs to target
     start_x = player_x + 63
     start_y = player_y + 85
-    t = phase / 5.0
+    t = phase / 7.0
     ball_x = int(start_x + (target_x - start_x)*t)
     ball_y = int(start_y + (target_y - start_y)*t - math.sin(math.pi*t)*78)
     # Hold near foot before kick, then fly.
     if phase == 0:
         ball_x, ball_y = start_x + 5, start_y - 2
-    draw_soccer_ball(d, ball_x, ball_y, radius=8, glow=(phase >= 3))
+    draw_soccer_ball(d, ball_x, ball_y, radius=8, glow=False)
     # Impact: light up the current square for the last frame of the kick.
-    if phase == 5:
+    if phase == 7:
         d.rounded_rectangle(
             (target_x-CELL//2-5, target_y-CELL//2-5, target_x+CELL//2+5, target_y+CELL//2+5),
             radius=6, outline=(246,200,78,255), width=3
         )
-        d.ellipse((target_x-15,target_y-15,target_x+15,target_y+15), outline=(117,213,245,170), width=2)
     # Bottom captions and legend
     d.text((48, 540), "NISHAD  /  DEVELOPER XI", font=font(F_MONO, 11), fill=SKY_LIGHT)
     d.text((984, 540), "LESS", font=font(F_MONO, 9), fill=MUTED, anchor="lm")
@@ -320,7 +316,7 @@ def build_animation(data, preview=False):
     grid, date_to_cell, grid_start, last_day = make_grid(data)
     metrics = metrics_for(data) if not preview else None
     frames = []
-    frame_count = 48
+    frame_count = 64
     for i in range(frame_count):
         frames.append(create_frame(grid, date_to_cell, metrics, i, preview=preview).convert("P", palette=Image.Palette.ADAPTIVE, colors=256))
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
