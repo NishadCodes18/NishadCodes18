@@ -5,7 +5,7 @@ from PIL import Image, ImageDraw, ImageFont, ImageSequence
 
 ROOT = Path(__file__).resolve().parents[1]
 ASSETS = ROOT / "assets"
-MARKER = ASSETS / ".profile-animations-slowed-v1"
+MARKER = ASSETS / ".profile-animations-slowed-v2"
 W, H = 1280, 160
 FONT_DIR = Path("/usr/share/fonts/truetype/dejavu")
 MONO = ImageFont.truetype(str(FONT_DIR / "DejaVuSansMono.ttf"), 14)
