@@ -328,7 +328,7 @@ def build_animation(data, preview=False):
         OUTPUT,
         save_all=True,
         append_images=frames[1:],
-        duration=220,
+        duration=380,
         loop=0,
         optimize=True,
         disposal=2,
