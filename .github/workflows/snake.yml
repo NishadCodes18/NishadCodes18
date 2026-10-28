@@ -28,9 +28,6 @@ jobs:
       - name: Install image renderer
         run: python -m pip install --disable-pip-version-check Pillow
 
-      - name: Remove floating orbs and slow profile animations
-        run: python scripts/slow_profile_animations.py
-
       - name: Generate football contribution animation
         run: python scripts/generate_football_contributions.py
 
@@ -38,7 +35,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/*.gif assets/.profile-animations-slowed-v1
+          git add assets/year-of-building.gif
           if git diff --cached --quiet; then
             echo "Contribution calendar is unchanged."
           else
