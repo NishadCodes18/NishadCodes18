@@ -56,7 +56,7 @@ def slow_existing_gifs():
         durations = []
         for frame in ImageSequence.Iterator(source):
             old = int(frame.info.get("duration", source.info.get("duration", 120)))
-            durations.append(max(180, min(900, round(old * 1.7))))
+            durations.append(max(180, min(1200, round(old * 2.1))))
         loop = source.info.get("loop", 0)
         transparency = source.info.get("transparency")
         frames[0].save(
