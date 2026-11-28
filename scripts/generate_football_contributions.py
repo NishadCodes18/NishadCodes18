@@ -22,7 +22,7 @@ from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont, ImageOps, ImageFilter
 
 ROOT = Path(__file__).resolve().parents[1]
-OUTPUT = ROOT / "assets" / "year-of-building.gif"
+OUTPUT = ROOT / "assets" / "mono" / "year-of-building.gif"
 USERNAME = "NishadCodes18"
 API_URL = f"https://github-contributions-api.jogruber.de/v4/{USERNAME}?y=last"
 

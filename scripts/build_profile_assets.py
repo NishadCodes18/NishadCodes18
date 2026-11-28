@@ -18,7 +18,7 @@ from PIL import Image
 from playwright.sync_api import sync_playwright
 
 ROOT = Path(__file__).resolve().parents[1]
-ASSETS = ROOT / "assets"
+ASSETS = ROOT / "assets" / "mono"  # fresh folder so GitHub never serves cached garnet images
 SCRIPTS = ROOT / "scripts"
 W = 1200
 
